@@ -1,0 +1,6 @@
+{
+  "name": "Curated Stays — Luxury Architectural Portals",
+  "description": "Keşif ve dinginliğin buluştuğu seçkin mimari sığınaklar, butik pavilyonlar ve özel tasarım konaklama deneyimleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
